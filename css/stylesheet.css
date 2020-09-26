@@ -203,28 +203,25 @@ header{
 	background-color: #31C5BC;
 	color: #000;
 	margin-bottom: 50px;
-	margin-right: 2em;
+	margin-right: 4em;
 	/*flex-direction: row-reverse;*/
 }
 
 .quiz {
-	margin-left: 2em;
 	background-color: #c56131;
-    color: #dab9b9;
-    width: 120px;
+    	color: #dab9b9;
+    	width: 120px;
 }
 
 .pencernaan {
 	background-color: #CACD3C;
 	color : #EA2957;
-	margin-right: 2em;
-	/*margin-right: 70px;*/
+	margin-right: 4em;
 }
 
 .darah {
 	background-color: #219653;
 	color: #D6E339;
-	margin-left: 2em;
 }
 
 .btn {
